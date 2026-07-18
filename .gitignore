@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# local results / cache
+results/
+*.npz
+.trainer_tmp/
+
+# environment
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
